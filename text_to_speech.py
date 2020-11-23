@@ -1,6 +1,7 @@
 from gtts import gTTS
 import os
 
+
 fh = open("test.txt", "r", encoding='utf-8')
 myText = fh.read()
 
